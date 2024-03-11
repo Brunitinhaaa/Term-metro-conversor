@@ -1,7 +1,7 @@
 # Term-metro-conversor
 Sistema de exibição de temperatura que alterna entre Fahrenheit (F) e Celsius (C) usando um interruptor DIP.
 
-
+![Circuito construido na plataforma](https://github.com/Brunitinhaaa/Term-metro-conversor/assets/104976135/19e4c1c1-3c7f-4256-9526-1ac7f3c93c3e)
 
 Neste projeto de engenharia eletrônica e programação, foi concebido um sistema inteligente de exibição de temperatura, projetado para oferecer flexibilidade ao usuário na escolha das unidades de medida, Fahrenheit (F) ou Celsius (C). Para isso, foram empregados diversos componentes eletrônicos interconectados de forma cuidadosa e estratégica. O sistema foi construído em torno de uma placa Arduino Uno, que serviu como o cérebro do projeto, coordenando todas as operações. Além disso, foram utilizados quatro painéis de 7 segmentos para a exibição visual da temperatura, proporcionando uma interface intuitiva e clara para o usuário.
 
