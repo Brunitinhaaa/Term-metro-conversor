@@ -1,4 +1,4 @@
-# Term-metro-conversor
+# Termômetro Conversor 
 Sistema de exibição de temperatura que alterna entre Fahrenheit (F) e Celsius (C) usando um interruptor DIP.
 
 ![Circuito construido na plataforma](https://github.com/Brunitinhaaa/Term-metro-conversor/assets/104976135/19e4c1c1-3c7f-4256-9526-1ac7f3c93c3e)
